@@ -25,11 +25,12 @@
 #define FX_H
 
 // Basic includes
-#include <stdio.h>
-#include <stdlib.h>
-#include <stdarg.h>
-#include <math.h>
-#include <string.h>
+#include <cstdio>
+#include <cstdlib>
+#include <cstdarg>
+#include <cmath>
+#include <ccomplex>
+#include <cstring>
 
 // FOX defines
 #include "fxver.h"
